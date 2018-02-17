@@ -1,6 +1,8 @@
 import pygame
 import sys
 
+print('hellp')
+
 class Ship():
 
     def __init__(self, ai_settings, screen):
